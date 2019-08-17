@@ -1,0 +1,816 @@
+{
+ "name": "Object Providers",
+ "rate": 0.03,
+ "children": [
+  {
+   "name": "CRYO",
+   "rate": 55.95999864517003,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 55.95999864517003,
+     "children": [
+      {
+       "name": "English",
+       "rate": 55.95999864517003,
+       "value": 1318.6598936230732
+      },
+      {
+       "name": "French",
+       "rate": 55.95999864517003,
+       "value": 23021.868575084838
+      },
+      {
+       "name": "Dutch",
+       "rate": 55.95999864517003,
+       "value": 1156.6210975577794
+      },
+      {
+       "name": "Other",
+       "rate": 55.95999864517003,
+       "value": 4158.850433734308
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 4606
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 25854
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "NETIA",
+   "rate": 70.98235840297122,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 70.98235840297122,
+     "children": [
+      {
+       "name": "English",
+       "rate": 70.98235840297122,
+       "value": 811.5081481755248
+      },
+      {
+       "name": "French",
+       "rate": 70.98235840297122,
+       "value": 9546.041049249397
+      },
+      {
+       "name": "Dutch",
+       "rate": 70.98235840297122,
+       "value": 519.524451456277
+      },
+      {
+       "name": "Other",
+       "rate": 70.98235840297122,
+       "value": 2080.9263511188005
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 10354
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "AREMA",
+   "rate": 56.500316856780735,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 56.500316856780735,
+     "children": [
+      {
+       "name": "English",
+       "rate": 56.500316856780735,
+       "value": 1808.762239515552
+      },
+      {
+       "name": "French",
+       "rate": 56.500316856780735,
+       "value": 33236.37318509526
+      },
+      {
+       "name": "Dutch",
+       "rate": 56.500316856780735,
+       "value": 1057.6002800281758
+      },
+      {
+       "name": "Other",
+       "rate": 56.500316856780735,
+       "value": 4998.264295361016
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 2167
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 9718
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CHAPTERAUTO",
+   "rate": 78.79937737806988,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 78.79937737806988,
+     "children": [
+      {
+       "name": "English",
+       "rate": 78.79937737806988,
+       "value": 1162.5858338296305
+      },
+      {
+       "name": "French",
+       "rate": 78.79937737806988,
+       "value": 15149.934282859076
+      },
+      {
+       "name": "Dutch",
+       "rate": 78.79937737806988,
+       "value": 885.7225110278902
+      },
+      {
+       "name": "Other",
+       "rate": 78.79937737806988,
+       "value": 3075.757372283404
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 37605
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 354
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "YOUTUBE",
+   "rate": 83.44868689034195,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 83.44868689034195,
+     "children": [
+      {
+       "name": "English",
+       "rate": 83.44868689034195,
+       "value": 26325.19757136722
+      },
+      {
+       "name": "French",
+       "rate": 83.44868689034195,
+       "value": 8270.88217571008
+      },
+      {
+       "name": "Dutch",
+       "rate": 83.44868689034195,
+       "value": 1849.184485948648
+      },
+      {
+       "name": "Other",
+       "rate": 83.44868689034195,
+       "value": 10231.735766974056
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 5250
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 4757
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DALET",
+   "rate": 41.17805755395683,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 41.17805755395683,
+     "children": [
+      {
+       "name": "English",
+       "rate": 41.17805755395683,
+       "value": 488.0991724113488
+      },
+      {
+       "name": "French",
+       "rate": 41.17805755395683,
+       "value": 5472.371787556043
+      },
+      {
+       "name": "Dutch",
+       "rate": 41.17805755395683,
+       "value": 269.79917418348725
+      },
+      {
+       "name": "Other",
+       "rate": 41.17805755395683,
+       "value": 1016.7298658491202
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 723
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 52805
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "WHATSON",
+   "rate": 100.0311010393061,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 100.0311010393061,
+     "children": [
+      {
+       "name": "English",
+       "rate": 100.0311010393061,
+       "value": 523.0471102212156
+      },
+      {
+       "name": "French",
+       "rate": 100.0311010393061,
+       "value": 10384.203253019712
+      },
+      {
+       "name": "Dutch",
+       "rate": 100.0311010393061,
+       "value": 462.93951326128814
+      },
+      {
+       "name": "Other",
+       "rate": 100.0311010393061,
+       "value": 1429.8101234977848
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 16748
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 6405
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VIMEO",
+   "rate": 108.54171180931745,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 108.54171180931745,
+     "children": [
+      {
+       "name": "English",
+       "rate": 108.54171180931745,
+       "value": 440.9959697195863
+      },
+      {
+       "name": "French",
+       "rate": 108.54171180931745,
+       "value": 220.3945409958418
+      },
+      {
+       "name": "Dutch",
+       "rate": 108.54171180931745,
+       "value": 59.85951593986565
+      },
+      {
+       "name": "Other",
+       "rate": 108.54171180931745,
+       "value": 202.74997334470626
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 69
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 220
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DAILYMOTION",
+   "rate": 41.474198047419804,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 41.474198047419804,
+     "children": [
+      {
+       "name": "English",
+       "rate": 41.474198047419804,
+       "value": 109.02730842670317
+      },
+      {
+       "name": "French",
+       "rate": 41.474198047419804,
+       "value": 442.32604388082285
+      },
+      {
+       "name": "Dutch",
+       "rate": 41.474198047419804,
+       "value": 35.17678423460749
+      },
+      {
+       "name": "Other",
+       "rate": 41.474198047419804,
+       "value": 132.4698634578665
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 68
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "INGESTVOD",
+   "rate": 12.448770491803279,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 12.448770491803279,
+     "children": [
+      {
+       "name": "English",
+       "rate": 12.448770491803279,
+       "value": 250.09263545953357
+      },
+      {
+       "name": "French",
+       "rate": 12.448770491803279,
+       "value": 3034.773062414266
+      },
+      {
+       "name": "Dutch",
+       "rate": 12.448770491803279,
+       "value": 220.32171639231825
+      },
+      {
+       "name": "Other",
+       "rate": 12.448770491803279,
+       "value": 440.81258573388203
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 1849
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 2622
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "OTHER",
+   "rate": 10.254430379746836,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 10.254430379746836,
+     "children": [
+      {
+       "name": "English",
+       "rate": 10.254430379746836,
+       "value": 39.17610308473253
+      },
+      {
+       "name": "French",
+       "rate": 10.254430379746836,
+       "value": 616.329558766107
+      },
+      {
+       "name": "Dutch",
+       "rate": 10.254430379746836,
+       "value": 39.587400754913446
+      },
+      {
+       "name": "Other",
+       "rate": 10.254430379746836,
+       "value": 94.90693739424704
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 369
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 31
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FTP",
+   "rate": 122.74512901527119,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 122.74512901527119,
+     "children": [
+      {
+       "name": "English",
+       "rate": 122.74512901527119,
+       "value": 41.02477556412261
+      },
+      {
+       "name": "French",
+       "rate": 122.74512901527119,
+       "value": 1569.8205456555145
+      },
+      {
+       "name": "Dutch",
+       "rate": 122.74512901527119,
+       "value": 28.132006038875257
+      },
+      {
+       "name": "Other",
+       "rate": 122.74512901527119,
+       "value": 260.0226727414876
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 29
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 67
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ARTE",
+   "rate": 65.59627329192547,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 65.59627329192547,
+     "children": [
+      {
+       "name": "English",
+       "rate": 65.59627329192547,
+       "value": 4.800019809825673
+      },
+      {
+       "name": "French",
+       "rate": 65.59627329192547,
+       "value": 133.9699881141046
+      },
+      {
+       "name": "Dutch",
+       "rate": 65.59627329192547,
+       "value": 3.2212757527733755
+      },
+      {
+       "name": "Other",
+       "rate": 65.59627329192547,
+       "value": 19.008716323296355
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 16
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CHAPTERCMS",
+   "rate": 103.54026845637584,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 103.54026845637584,
+     "children": [
+      {
+       "name": "English",
+       "rate": 103.54026845637584,
+       "value": 16.574606827771383
+      },
+      {
+       "name": "French",
+       "rate": 103.54026845637584,
+       "value": 222.2763887435924
+      },
+      {
+       "name": "Dutch",
+       "rate": 103.54026845637584,
+       "value": 13.800048819611535
+      },
+      {
+       "name": "Other",
+       "rate": 103.54026845637584,
+       "value": 45.34895560902465
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 104
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LIVECENTER",
+   "rate": 65.21189591078067,
+   "children": [
+    {
+     "name": "Original",
+     "rate": 65.21189591078067,
+     "children": [
+      {
+       "name": "English",
+       "rate": 65.21189591078067,
+       "value": 67.65677383348947
+      },
+      {
+       "name": "French",
+       "rate": 65.21189591078067,
+       "value": 1303.4195850192343
+      },
+      {
+       "name": "Dutch",
+       "rate": 65.21189591078067,
+       "value": 55.223774690558294
+      },
+      {
+       "name": "Other",
+       "rate": 65.21189591078067,
+       "value": 189.69986645671804
+      }
+     ]
+    },
+    {
+     "name": "Duplicates",
+     "rate": 40.51622223491121,
+     "children": [
+      {
+       "name": "Duplicates",
+       "rate": 40.51622223491121,
+       "value": 4975
+      }
+     ]
+    },
+    {
+     "name": "NULL",
+     "rate": 0,
+     "children": [
+      {
+       "name": "NULL",
+       "rate": 0,
+       "value": 3848
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

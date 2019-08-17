@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Data Visualisation</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../static/images/favicon.ico"/>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="../static/style/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="http://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+</head>
+<body>
+<div id="time-container">
+  <div id="date-selector" class="">
+        Added From:<input type="text" id="fromDate"  class="ui-widget">
+        Added Until:<input type="text" id="toDate"  class="ui-widget">
+        <input type="button" value="All" id="allButton">
+        <select id="value-select">
+          <option value="object_provider">Provider</option>
+          <option value="category">Category</option>
+          <option value="program_id">Program ID</option>
+          <option value="program_labelstat">Program LabelStat</option>
+          <option value="program_maincategoryid">Main Category ID</option>
+          <option value="program_identifierstat">Program IdentifierStat</option>
+        </select>
+  </div>
+</div>
+
+<div id="pie">
+  <div id="buttonmenu">
+    <input type="button" value="Type" style="background-color:red" id="TypeButton" >
+    <input type="button" value="Content Type" id="ContButton" >
+    <input type="button" value="Is Embed Press" id="EmbedButton" >
+  </div>
+  <div id ="chart"></div>
+</div>
+<div id="select">
+  <div id="selectmenu">
+    <input type="button" value="Title" id="TitleButton" >
+    <input type="button" value="Description" style="background-color:red" id="DescButton" >
+    <div id="checkoxes">
+      <input type="checkbox" class="myCheckbox" id="checkprov" value="object_provider" checked> Provider
+      <input type="checkbox" class="myCheckbox" id="checkcat" value="category"> Category
+      <input type="checkbox" class="myCheckbox" id="checkid" value="program_identifierstat"> Identifier
+    </div>
+    <div id="selectmenus"></div>
+  </div>
+</div>
+<div id="desc">
+  <div id="descPie"></div>
+</div>
+<div id="lang">
+  <div id="langPie"></div>
+</div>
+<div id="stats"></div>
+
+<script src="../static/main.js" type="module"></script>
+<script src="../static/functions.js" type="module"></script>
+<script src="../static/pie.js" type="module"></script>
+<script src="../static/timedChart.js" type="module"></script>
+<script src="../static/descriptive.js" type="module"></script>
+
+</body>
+</html>

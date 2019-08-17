@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Data Visualisation</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../static/images/favicon.ico"/>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="../static/style/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="http://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+</head>
+<body>
+  <div id="main">
+  <svg width="960" height="500"></svg>
+  </div>
+  <div id="rescontainer">
+  </div>
+  <div id="resbutton">
+    <input type="button" value="Doc2Vec Score" style="background-color:red" id="doc" >
+    <input type="button" value="Tf-IDF Score" id="tf" >
+    <input type="button" value="Total Score" id="tot" >
+  </div>
+
+<script src="../static/main.js" type="module"></script>
+<script src="../static/functions.js" type="module"></script>
+<script src="../static/titles.js" type="module"></script>
+<script src="../static/chartRes.js" type="module"></script>
+
+</body>
+</html>
