@@ -9,7 +9,6 @@ import uuid
 import numpy as np
 import sqlite3
 import ApiExceptions
-import mysql.connector
 import descriptiveComputation
 
 app = Flask(__name__)
