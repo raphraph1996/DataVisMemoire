@@ -11,7 +11,7 @@ In this tutorial, we are going to show you how to download and lauch the differe
   * Enchant : `pip3 install pyenchant`
 * You need an internet connection to run the programs
 ## Download and installation
-1. Open a shell and clone this repository : `git clone https://github.com/raphraph1996/DataVisMemoire` (you need to use the login and password given in the appendix B).
+1. Open a shell and clone this repository : `git clone https://github.com/raphraph1996/DataVisMemoire.git` (you need to use the login and password given in the appendix B).
 2. Enter the DataVisMemoire folder (`cd DataVisMemoire`) and launch the install script (`bash install.sh`).
 ## Launching a model
 Now you can launch visualisation model by opening a shell, going to the location of the DataVisMemoire folder and typing `bash dataVis.sh <arg>`. arg is set to 1 if you want to use the First Visualisation model, 2 if you want to use the TreeMap model and 3 if you want to use the Results model.
